@@ -2,6 +2,8 @@
 
 A monthly budget tracking app with charts built with React and Vite.
 
+🔗 **Live Demo:** https://kenny-harper-budget-tracker.netlify.app
+
 ## Features
 - Add income and expenses with categories
 - Monthly breakdown with month navigation
