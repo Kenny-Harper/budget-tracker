@@ -1,9 +1,12 @@
 # 💰 Budget Tracker
 
-A monthly budget tracking app with charts built with React and Vite.
+<img width="845" height="894" alt="Screenshot 2026-04-28 at 11 06 00" src="https://github.com/user-attachments/assets/ee49bb73-0687-4b41-b912-1cb7d925f5de" />
 
 ## Live Demo
 https://kenny-harper-budget-tracker.netlify.app
+
+## Intro
+A monthly budget tracking app with charts built with React and Vite.
 
 ## Features
 - Add income and expenses with categories
